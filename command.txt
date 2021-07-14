@@ -1,0 +1,1 @@
+cmd:total.exe [scan output file name]
